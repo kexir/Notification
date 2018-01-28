@@ -1,0 +1,27 @@
+.signup-panel {
+    margin: auto;
+    width: 40%;
+    border: 1px solid gray;
+}
+.signup-title{
+    text-align: center;
+    margin: 20px;
+}
+.signup-input-field{
+    margin: 10px 70px;
+}
+.signup-input{
+    margin-left: 20px;
+}
+.signup_button{
+    width: 20%;
+    margin-left: 200px;
+}
+.signup_redirect{
+    text-align: right;
+    margin-right: 20px;
+}
+.error-message {
+    padding-left: 20px;
+    color: red;
+}

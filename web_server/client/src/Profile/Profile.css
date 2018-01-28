@@ -1,0 +1,93 @@
+.Profile{
+    background-image: url("../profile_img/profile_background.png");
+    background-repeat: no-repeat;
+    background-position: 0 0;
+    background-attachment: scroll;
+    background-size: 100% 30%;
+}
+#profile_button_group{
+    margin-top: 20px;
+}
+.row{
+    margin-right: 10px;
+}
+.btn{
+    margin: 5px 5px 5px 5px;
+}
+.badge{
+    margin-left: 5px;
+}
+.margin_border{
+    box-shadow: 1px 1px 5px grey;
+    border-radius: 16px;
+}
+.user_image {
+    max-width: 200px;
+    max-height: 200px;
+    margin-left: 20%;
+    margin-top: 10px;
+}
+.user_name{
+    margin-bottom: 20px;
+}
+.user_panel{
+    margin-top: 100px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    background-color: white;
+}
+.user_detail{
+    color: darkgray;
+    margin-bottom: 10px;
+}
+.course_panel{
+    margin-top: 100px;
+    background-color: white;
+}
+.profile_course_image{
+    width: 90%;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.profile_course_detail{
+    color: gray;
+    margin-bottom: 20px;
+}
+.profile_course_time{
+    color: gray;
+    margin-bottom: 40px;
+}
+.teacher_panel{
+    margin-top: 50px;
+    width: 95%;
+    margin-left: 15px;
+}
+.teacher_chip{
+    margin: 30px;
+}
+.teacher_info{
+    width: 100px;
+    height: 100px;
+}
+.homework_panel{
+    width: 30%;
+    margin-top: 50px;
+    margin-left: 15px;
+    margin-right: 10px;
+    min-height: 500px;
+}
+.homework_img{
+    width: 90%;
+    height: 90%;
+    margin: 10px;
+}
+.detail_bar{
+    margin-top: 100px;
+    background-color: rgba(124,124,124,0.63);
+    opacity:0.8;
+    /*color: transparent;*/
+    min-height: 800px;
+}

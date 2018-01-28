@@ -1,0 +1,17 @@
+.chat_content_panel{
+    margin: 50px;
+}
+.chat_detail{
+    margin-top: 10px;
+    color: #28313B;
+}
+.chat_detail_time{
+    color: #9b9b9b;
+}
+.pending{
+    color: #9b9b9b;
+    text-align: right;
+}
+.delivered{
+    color: #e5e4e6;
+}

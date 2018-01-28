@@ -1,0 +1,130 @@
+.notification_panel{
+    margin: 50px auto 50px;
+    border-radius: 0px;
+    border: 1px solid rgba(183,183,183,0.63);
+    background-color: #fbfbfb;
+}
+.notification_header{
+    background-color: #9b9b9b;
+    text-align: right;
+    alignment: right;
+    height: 50px;
+}
+.glyphicon-envelope{
+    color: white;
+    margin: 15px;
+}
+.receiver_panel{
+    border-bottom: 1px solid #9b9b9b;
+    padding: 20px;
+}
+.notification_receiver_label{
+    color: #9b9b9b;
+}
+.notification_receiver_input{
+    margin-left: 20px;
+    border: 0px;
+}
+.notification_topic_panel{
+    border-bottom: 1px solid #9b9b9b;
+    padding: 20px;
+}
+.notification_message_input{
+    border: 0px;
+    color: #9b9b9b;
+    width: 100%;
+    box-sizing:border-box
+}
+.notification_message_textarea{
+    background-color: white;
+    padding-left: 30px;
+    padding-top: 40px;
+    width: 100%;
+    height: 300px;
+    resize: none;
+    overflow-y: scroll;
+}
+.notification_submit{
+    border-bottom: 1px solid #9b9b9b;
+    height: 50px;
+}
+.notification_submit_button{
+    margin-top: 5px;
+    margin-right: 20px;
+    font-size: large;
+    background-color: #4990e2;
+    color: white;
+    border: transparent;
+    border-radius: 2px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.notification_tab_panel{
+    padding: 50px;
+}
+.notification_tab_slice{
+    min-height: 10px;
+    background-color: gray;
+    width: 100%;
+}
+.notification_col{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.nav-pills>li>a{
+    padding: 0px;
+}
+.notification_list-group-item{
+    border-radius: 0px;
+    background-color: white;
+    color: black;
+    padding:10px;
+    margin-bottom: 0px !important;
+ }
+.notification_list-group-item:active, .notification_list-group-item:hover, .notification_list-group-item:focus{
+    background-color: #4990e2;
+    color: white;
+}
+.notification_nav{
+    max-height: 400px;
+    overflow-y: scroll;
+}
+.notification_nav_item{
+    float: none;
+    margin-left: 15px !important;
+    margin-right: 5px;
+}
+.notification_content_header{
+    padding-top: 20px;
+    margin-left: 30px;
+    background-color: white;
+}
+
+.notification_content{
+    background-color: #eaeaea;
+    height: auto;
+    min-height: 300px;
+}
+.BitTiger_Icon{
+    color: transparent;
+}
+.notification_content_text{
+    white-space:pre-wrap;
+    margin: 15px 40px;
+    padding: 60px 40px;
+    background-color: white;
+    max-width: 100%;
+    /*box-sizing: border-box;*/
+    /*display: block;*/
+}
+.notification_content_email{
+    color: gray;
+}
+.notification_content_email_span{
+    color: black;
+}
+#unread{
+    background-color: #eaeaea !important;
+}

@@ -1,0 +1,17 @@
+pymongo
+
+python-jsonrpc
+
+pika
+
+requests
+
+redis
+
+lxml
+
+python-dateutil
+
+watchdog
+
+ConfigParser

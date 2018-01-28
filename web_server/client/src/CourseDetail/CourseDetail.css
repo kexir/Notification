@@ -1,0 +1,9 @@
+.course_detail_course_image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+.course_detail_course_title{
+    margin: 10px;
+}

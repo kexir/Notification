@@ -1,0 +1,28 @@
+.login_title{
+    text-align: center;
+}
+.login_input_field{
+    padding: 10px;
+    text-align: center;
+    justify-content: center;
+}
+.login-panel {
+
+    margin: 50px auto;
+    width: 40%;
+    border: 1px solid gray;
+}
+
+.error-message {
+    padding-left: 20px;
+    color: red;
+}
+.login_button{
+    width: 20%;
+    margin-left: 210px;
+}
+.login_redirect{
+    text-align: right;
+    margin-right: 50px;
+}
+

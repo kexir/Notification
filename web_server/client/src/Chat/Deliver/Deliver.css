@@ -1,0 +1,51 @@
+
+.popup_box {
+    background-image: url('../../profile_img/popup_box_background.png');
+    background-position: center;
+    background-size: 100%;
+}
+.popup_icon{
+    width: 30%;
+    height: 30%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.popup_input{
+    display: block;
+    margin: 5px auto 5px;
+    text-align: center;
+}
+
+.chat_send_panel{
+    background-color: #eaeaea;
+    margin-bottom: 20px;
+    width: 100%;
+    height: 100px;
+}
+.chat_send_glyph{
+    background-color: #eaeaea;
+    border: transparent;
+    color: white;
+}
+.chat_send_input{
+    margin-top: 30px;
+    margin-left: 100px;
+    margin-bottom: 5px;
+}
+.chat_button_panel{
+    margin-top: 30px;
+}
+#btn-chat{
+    background-color: #363636;
+    color: white;
+    border-radius: 10px;
+    border-color: black;
+    margin-left: 50px;
+    margin-right: 20px;
+    width: 50%;
+    height: 35px;
+}
+#btn-chat:hover{
+    background-color: #404f5f;
+}

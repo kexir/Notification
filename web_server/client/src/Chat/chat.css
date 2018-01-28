@@ -1,0 +1,10 @@
+.chat{
+    margin-top: 50px;
+}
+.chat_nav_item {
+    margin-right: 10px;
+    border-radius: 3px;
+}
+a{
+    color: #28313B;
+}
